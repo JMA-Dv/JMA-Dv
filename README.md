@@ -17,7 +17,7 @@ I am currently working at [Asterias Software Solutions][company] as a Full-Stack
 2. [Outlook][outlook]
 3. [Discord][discord]
 
-### :hammer_and_wrech: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"
