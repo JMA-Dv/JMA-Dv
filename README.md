@@ -27,6 +27,7 @@ title="Vuejs" alt="Vuejs" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="40" height="40" /> &nbsp;
 
 
 <!-- <img src="" title="" alt="" width="40" height="40" /> &nbsp; -->
