@@ -5,7 +5,7 @@ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 I am currently working at [Asterias Software Solutions][company] as a Full-Stack developer using technologies such as Asp.Net Core and Vue Js. 
 
 - 🔭 I'm currently learning Asp.Net Core Identity 
-- 🌱 I’m currently working at [company]
+- 🌱 I’m currently working at [Assterias Software Solutions][company]
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: I like to play Smash!
 
