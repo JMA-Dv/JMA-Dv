@@ -2,7 +2,7 @@
 Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Jesus Mata</h2>
 
 ### About me: 
-I am currently working at [Asterias Software Solutions][company] as a Full-Stack developer using technologies such as Asp.Net Core and Vue Js. 
+I am currently working at [Asterias Software Solutions][company] as a outsourcing Full-Stack developer using technologies such as Asp.Net Core, Vue js, SQL Server, SSIS, Azure, etc. 
 
 - 🔭 I'm currently learning Blazor WebAssembly and SSIS!
 - 🌱 I’m currently working at [Assterias Software Solutions][company]
